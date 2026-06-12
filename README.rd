@@ -17,5 +17,4 @@ This repository contains my work for the Coursera course *The Data Scientist’s
 
 ## How to View
 Browse the repository files directly or clone the repo:
-```bash
-git clone https://github.com/valeshiap14/datasciencecoursera.git
+git - https://github.com/valeshiap14/datasciencecoursera.git
