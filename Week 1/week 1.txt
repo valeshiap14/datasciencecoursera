@@ -1,0 +1,4 @@
+Name,Age,Student
+Valeshia,25,TRUE
+John,30,FALSE
+Aisha,22,TRUE

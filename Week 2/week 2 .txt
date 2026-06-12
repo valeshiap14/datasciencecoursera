@@ -1,0 +1,6 @@
+Subject,Marks
+Database,75
+C++,80
+DMW,68
+Python,90
+Statistics,85
